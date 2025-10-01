@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Data and secrets
+data/raw/*.csv
+.env
+*.key
+
+# OS files
+.DS_Store

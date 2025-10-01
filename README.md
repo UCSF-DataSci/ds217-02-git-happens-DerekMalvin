@@ -27,7 +27,6 @@ This assignment has **three progressive parts** that build upon each other. Each
 ### Part 1: Git Workflow Mastery (7 points)
 
 **Objective**: Demonstrate Git branching, committing, and merging workflows.
-
 **Tasks**:
 1. Create a new repository named `datasci-week02-integration` (separate from this assignment folder)
 2. Set up the following branch structure:
