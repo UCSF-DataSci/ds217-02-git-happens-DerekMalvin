@@ -1,6 +1,4 @@
 # No external packages required for basic functionality
-EOF 
-echo "Created requirements.txt"
 
 ## Create sample data files (students.csv with at least 8 records)
 cat > data/students.csv << 'EOF'
